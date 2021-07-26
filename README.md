@@ -1,6 +1,6 @@
 # Matplotlib
 
-Code file: is in file pymaceuticals_starter-Copy1.pyng
+Code file: pymaceuticals_starter-Copy1.pyng
 
 Homework - KEY OBSERVATIONS
 
